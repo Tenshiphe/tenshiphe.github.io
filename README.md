@@ -5,17 +5,30 @@ J'ai voulu ce site pour partager mon expérience et les documents que j'ai réal
 
 Ma première thématique porte les méthodes d'authentifications.
 
-## TOTP
-En cours
-Documents
-- présentation :
-- scripts :
+## Authentification
+### TOTP
+Article : https://github.com/Tenshiphe/tenshiphe.github.io/blob/master/totp.md
+Documents : https://github.com/Tenshiphe/tenshiphe.github.io/tree/master/documents/TOTP
 
-## Yubikey
+### Yubikey
 A venir
 
-## PKI
+### PKI
 A venir
 
-## Gestionnaires de mot de passe
+### Gestionnaires de mot de passe
+A venir
+
+## Méthodes et outils
+### Méthodes
+A venir
+
+### Liens
+A venir
+
+## Ingénerie sociale
+### Psychologie
+A venir
+
+### Sociologie
 A venir
