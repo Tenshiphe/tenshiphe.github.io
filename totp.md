@@ -13,13 +13,13 @@ blablabla
 
 ## Annexes
 ### Sources
-Dcode : https://www.dcode.fr/code-base-32
-GeekForGeek : https://www.geeksforgeeks.org/dsa/bit-manipulation-swap-endianness-of-a-number
-Korben : https://korben.info/gpu-zip-pixnapping-android-2fa-faille-non-patchee.html
-IT-Connect : https://www.it-connect.fr/authquake-une-faille-critique-decouverte-dans-le-mfa-de-microsoft
-IProov : https://www.iproov.com/fr/blog/one-time-passcode-otp-authentication-risks
-Linkedin : https://www.linkedin.com/feed/update/urn:li:activity:7411305792072597504
-CLUSIF : https://www.globalsecuritymag.fr/CLUSIF-panorama-de-la,20150119,50072.html
+- Dcode : https://www.dcode.fr/code-base-32
+- GeekForGeek : https://www.geeksforgeeks.org/dsa/bit-manipulation-swap-endianness-of-a-number
+- Korben : https://korben.info/gpu-zip-pixnapping-android-2fa-faille-non-patchee.html
+- IT-Connect : https://www.it-connect.fr/authquake-une-faille-critique-decouverte-dans-le-mfa-de-microsoft
+- IProov : https://www.iproov.com/fr/blog/one-time-passcode-otp-authentication-risks
+- Linkedin : https://www.linkedin.com/feed/update/urn:li:activity:7411305792072597504
+- CLUSIF : https://www.globalsecuritymag.fr/CLUSIF-panorama-de-la,20150119,50072.html
 
 ### RFC
 - 2104 : HMAC: Keyed-Hashing for Message Authentication
