@@ -1,6 +1,21 @@
 # tenshiphe.github.io
 
-Personnal page on Github to follow my projects :
-- tenshiphe.github.io : this project
-- doli : DevOps Laboratoire d'Intrusion
-- zsh-in-docker : fork of deluan work. Will dispear when doli will be ready
+## Edito
+J'ai voulu ce site pour partager mon expérience et les documents que j'ai réalisé pour ce faire. Je ne suis pas pentester, je ne travaille pas non plus dans la Cyber. Je me définierai à mi-chemin entre un opérationnel et un fonctionnel. Selon la méthode SCRUM, je crois qu'on m'appelerai un "TechLead". J'administre un AD, une PKI et je sécurise les systèmes. Je m'interesse aussi à la sécurité physique (ouverture fine / lockpicking, token physique, ...) et la psychologie et sociologie humaine.
+
+Ma première thématique porte les méthodes d'authentifications.
+
+## TOTP
+En cours
+Documents
+- présentation :
+- scripts :
+
+## Yubikey
+A venir
+
+## PKI
+A venir
+
+## Gestionnaires de mot de passe
+A venir
